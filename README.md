@@ -1,5 +1,9 @@
  # CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
 
+
+### REG NUMBER: 212224040353
+### NAME: THILAK RAJ . P
+
 ## AIM :
 To create an AWS account, set up a root user, and create an IAM user with specified permissions.
 
@@ -23,8 +27,6 @@ This experiment involves creating an AWS account, configuring security settings 
  ### Step 7:
  Review and Create IAM User</br>
 
-### REG NUMBER: 212224040353
-### NAME: THILAK RAJ . P
 
 ## OUTPUT
 
